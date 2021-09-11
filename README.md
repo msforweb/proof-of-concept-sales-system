@@ -1,4 +1,4 @@
-# Proof of concept for sales system
+## Proof of concept for sales system
 - index.php file contains one class & different functions to manage product catalog, cart & total
 
 **Products initialized with their respective code & price**
